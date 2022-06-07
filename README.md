@@ -4,5 +4,5 @@ It obviously has some room for improvement in that code, but it was just a simpl
 
 Limitations/room for improvement:
   - When you add a new file that its empty, like a empty txt file, the script doesn't recognize as a new file, because it's empty;
-  - it's not encrypted, you can use symmetrical encryption
-  - you have to run the main part of the programm (not the "main()" function) evertytime, you can put it in a loop.
+  - It's not encrypted, you can use symmetrical encryption
+  - You have to run the main part of the programm (not the "main()" function) evertytime, you can put it in a loop.
